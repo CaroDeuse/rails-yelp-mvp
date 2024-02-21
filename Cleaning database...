@@ -1,0 +1,41 @@
+=> 
+[[32m#<Restaurant:0x00007f056d0b3898[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mChez Chichi[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mfkjfdjf street[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m2262546[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mchinese[0m[31m[1m"[0m,
+  created_at: Wed, 21 Feb 2024 10:40:56.019880000 UTC +00:00,
+  updated_at: Wed, 21 Feb 2024 10:40:56.019880000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f056d032748[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mRitals[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mmlgmlsgmlqfe street[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m34534[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mitalian[0m[31m[1m"[0m,
+  created_at: Wed, 21 Feb 2024 10:40:56.023875000 UTC +00:00,
+  updated_at: Wed, 21 Feb 2024 10:40:56.023875000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f056d032568[0m
+  id: [34m[1m4[0m,
+  name: [31m[1m"[0m[31mChez Jaja[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mzltktklgzbgk street[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m346456[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mjapanese[0m[31m[1m"[0m,
+  created_at: Wed, 21 Feb 2024 10:40:56.026991000 UTC +00:00,
+  updated_at: Wed, 21 Feb 2024 10:40:56.026991000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f056d032450[0m
+  id: [34m[1m5[0m,
+  name: [31m[1m"[0m[31mFrouz[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mzeoezko street[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m575673[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mfrench[0m[31m[1m"[0m,
+  created_at: Wed, 21 Feb 2024 10:40:56.029507000 UTC +00:00,
+  updated_at: Wed, 21 Feb 2024 10:40:56.029507000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f056d032388[0m
+  id: [34m[1m6[0m,
+  name: [31m[1m"[0m[31mChez nous[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mfkfkfskjd street[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m57546[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mbelgian[0m[31m[1m"[0m,
+  created_at: Wed, 21 Feb 2024 10:40:56.031789000 UTC +00:00,
+  updated_at: Wed, 21 Feb 2024 10:40:56.031789000 UTC +00:00[32m>[0m]

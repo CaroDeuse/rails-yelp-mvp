@@ -7,3 +7,16 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+puts "Cleaning database..."
+Restaurant.destroy_all
+
+puts 'Creating fake restaurants...'
+
+Restaurant.create!(name: "Chez Chichi", address: "fkjfdjf street", category:"chinese", phone_number:"2262546")
+Restaurant.create!(name: "Ritals", address: "mlgmlsgmlqfe street", category:"italian", phone_number:"34534")
+Restaurant.create!(name: "Chez Jaja", address: "zltktklgzbgk street", category:"japanese", phone_number:"346456")
+Restaurant.create!(name: "Frouz", address: "zeoezko street", category:"french", phone_number:"575673")
+Restaurant.create!(name: "Chez nous", address: "fkfkfskjd street", category:"belgian", phone_number:"57546")
+
+puts 'Finished!'
